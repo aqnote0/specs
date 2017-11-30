@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage              = "https://github.com/aqnotecom/com.aqnote.ios.foundation"
   s.license               = { :type => 'Copyright', :text => "Apache License" }
   s.author                = { "Peng Li" => "aqnote.com@gmail.com" }
-  s.source                = { :git => "https://github.com/aqnotecom/com.aqnote.foundation.git", :tag => "v#{s.version}" }
+  s.source                = { :git => "https://github.com/aqnotecom/com.aqnote.ios.foundation.git", :tag => "v#{s.version}" }
   s.requires_arc          = true
   s.ios.deployment_target = '8.0'
 
